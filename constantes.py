@@ -1,0 +1,4 @@
+EASY = 0
+MOYEN = 1
+HARD = 2
+VERY_HARD = 3
